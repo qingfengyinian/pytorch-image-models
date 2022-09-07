@@ -20,7 +20,7 @@ for some einops/einsum fun
 Hacked together by / Copyright 2020, Ross Wightman
 """
 import math
-import logging
+import logging #实现日志功能
 from functools import partial
 from collections import OrderedDict
 from typing import Optional
